@@ -1,5 +1,7 @@
 # EnvioDeGMAIL
-EnvioDeGMAIL Es un script para enviar gmails desde consola mediante un servidor SMTP que nos brinda la libreria smtplib
+EnvioDeGMAIL Es un script para enviar gmails desde consola mediante un servidor SMTP que nos brinda la libreria smtplib.
+ACLARO, ESTE SCRIPT SOLO FUNCIONA DESDE GMAIL A GMAIL, NO HOTMAIL. PARA QUE ANDE EN HOTMAIL ES OTRO PROCEDIMIENTO Y OTRO CODIGO.
+SALUDOS! :D
 
 PARA UTILIZAR ESTE SCRIPT:
 
